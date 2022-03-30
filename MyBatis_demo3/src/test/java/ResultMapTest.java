@@ -38,6 +38,8 @@ public class ResultMapTest {
         System.out.println("第四次");
         System.out.println("master");
         System.out.println("hot-fix");
+        System.out.println("git-hub更新了");
+        
 
     }
 
