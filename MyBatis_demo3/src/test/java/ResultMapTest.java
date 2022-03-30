@@ -37,6 +37,7 @@ public class ResultMapTest {
         System.out.println("第三次");
         System.out.println("第四次");
         System.out.println("master");
+        System.out.println("hot-fix");
 
     }
 
