@@ -32,6 +32,11 @@ import java.util.List;
  */
 public class ResultMapTest {
 
+    @Test
+    public void test(){
+
+    }
+
 
     @Test
     public void testGetEmpAndDept(){
